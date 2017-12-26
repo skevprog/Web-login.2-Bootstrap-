@@ -1,0 +1,29 @@
+
+body{
+	margin:0;
+	padding: 0;
+	
+}
+
+label{
+	font-weight: bold;
+}
+.boxlogin{
+	margin: 85px auto;
+	width: 320px;
+}
+
+input[type="submit"]{
+	margin-top: 15px;
+	width: 100%;
+}
+
+div .checkbox{
+	margin-top: 15px;
+}
+
+form img{
+	width: 150px;
+	display: block;
+	margin:auto;
+}
